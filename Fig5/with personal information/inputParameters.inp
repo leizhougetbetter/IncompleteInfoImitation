@@ -1,0 +1,10 @@
+networkType = RRG
+weightDist = Homogeneous
+numRepetitionInput = 50000000
+numGenerationInput = 10000000
+selectionIntensityInput = 0.01
+numNeighChosenMain = 3
+SSEstimatedCritical = 5.3445
+SSDistance = 0.4
+SSGap = 0.05
+TTvalue = 1.0
