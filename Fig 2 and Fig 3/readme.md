@@ -1,7 +1,3 @@
-## Introduction
-
-This custom code performs the simulations for the paper: **Imitation dynamics on networks with incomplete social information**, by *Xiaochen Wang*, *Lei Zhou*, *Alex McAvoy*, and *Aming Li*. 
-
 The code applies to Fig 2 and Fig 3 in the main text.
 
 ## Included files
