@@ -1,5 +1,3 @@
-## Introduction
-
 There are two folders titled *with personal information* and *without personal information*.
 The codes applies to Fig 5 in the main text.
 
