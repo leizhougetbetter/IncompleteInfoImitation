@@ -1,1 +1,1 @@
-# IncompleteInfoImitation
+# Imitation under Incomplete Information
